@@ -1,7 +1,5 @@
 # Next.js & HeroUI Template
 
-
-
 This is a template for creating applications using Next.js 14 (pages directory) and HeroUI (v2).
 
 [Try it on CodeSandbox](https://githubbox.com/heroui-inc/next-pages-template)
